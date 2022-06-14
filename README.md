@@ -40,4 +40,7 @@
 # Distribution of Minpressurem
 ![Distribution of Minpressurem](https://user-images.githubusercontent.com/72095437/173504428-a9e6d553-db30-4751-bf9d-76b482c2237a.png)
 
-Algorithm: K-Means used , Library Function: NumPy, Pandas,  Standard Scaler, Matplotlib.Pyplot 
+Algorithm used: K-Means
+Module used: Numpy, Pandas, MAtplotlib
+![](https://img.shields.io/badge/Status-Complete-green.svg)
+
